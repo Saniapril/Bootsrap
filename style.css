@@ -18,9 +18,10 @@ body {
     max-width: 1080px;
     margin: auto;
     border: 1px solid #eaeaea;
-    box-shadow: 2px 2px 2px 1px #eaeaea important!;
+    box-shadow: 0px 2px 8px #bebebe;
     background-color: white;
     padding: 30px;
+    border-radius: 5px;
 }
 
 nav {
@@ -29,6 +30,7 @@ nav {
 
 .slider {
     padding: 20px;
+    margin-top: 10px;
 }
 
 .callAction {
