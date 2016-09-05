@@ -1,0 +1,37 @@
+.jumbotron {
+    background-color: white;
+}
+
+.panel-primary {
+    background-color: #000 !important;
+}
+
+a {
+    color: #31b0d5;
+}
+
+body {
+    background-color: #eaeaea;
+}
+
+.wrapper {
+    max-width: 1080px;
+    margin: auto;
+    border: 1px solid #eaeaea;
+    box-shadow: 2px 2px 2px 1px #eaeaea important!;
+    background-color: white;
+    padding: 30px;
+}
+
+nav {
+    border-bottom: 1px solid #eaeaea;
+}
+
+.slider {
+    padding: 20px;
+}
+
+.callAction {
+    padding: 40px;
+    margin-bottom: 20px;
+}
