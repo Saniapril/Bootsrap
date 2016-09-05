@@ -6,8 +6,24 @@
     background-color: #000 !important;
 }
 
+h1 {
+    font-size: 25px;
+}
+
+h2,
+h3,
+h4,
+h5 {
+    font-size: 20px;
+}
+
 a {
     color: #31b0d5;
+    font-size: 14px;
+}
+
+p {
+    font-size: 14px;
 }
 
 body {
@@ -18,10 +34,16 @@ body {
     max-width: 1080px;
     margin: auto;
     border: 1px solid #eaeaea;
+<<<<<<< HEAD
     box-shadow: 0px 2px 8px #bebebe;
     background-color: white;
     padding: 30px;
     border-radius: 5px;
+=======
+    box-shadow: 0px 2px 8px #bcbcbc;
+    background-color: white;
+    padding: 0px 30px;
+>>>>>>> origin/bootstrap-child
 }
 
 nav {
@@ -30,10 +52,19 @@ nav {
 
 .slider {
     padding: 20px;
+<<<<<<< HEAD
     margin-top: 10px;
+=======
+    margin-top: 30px;
+    margin-bottom: 0px;
+>>>>>>> origin/bootstrap-child
 }
 
 .callAction {
-    padding: 40px;
+    padding: 30px;
     margin-bottom: 20px;
+}
+
+.btn-info {
+    box-shadow: 1px 1px 15px 1px #bcbcbc;
 }
