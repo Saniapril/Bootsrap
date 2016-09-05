@@ -1,0 +1,59 @@
+.jumbotron {
+    background-color: white;
+}
+
+.panel-primary {
+    background-color: #000 !important;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+h2,
+h3,
+h4,
+h5 {
+    font-size: 20px;
+}
+
+a {
+    color: #31b0d5;
+    font-size: 14px;
+}
+
+p {
+    font-size: 14px;
+}
+
+body {
+    background-color: #eaeaea;
+}
+
+.wrapper {
+    max-width: 1080px;
+    margin: auto;
+    border: 1px solid #eaeaea;
+    box-shadow: 0px 2px 8px #bcbcbc;
+    background-color: white;
+    padding: 0px 30px;
+}
+
+nav {
+    border-bottom: 1px solid #eaeaea;
+}
+
+.slider {
+    padding: 20px;
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+
+.callAction {
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+.btn-info {
+    box-shadow: 1px 1px 15px 1px #bcbcbc;
+}
